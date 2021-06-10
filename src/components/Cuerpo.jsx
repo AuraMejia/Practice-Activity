@@ -1,6 +1,6 @@
 import React from 'react' //Importar siempre la librería react
 import '../utils/css/Cuerpo.estilos.css'
-import Sofia from '../utils/images/girl.PNG'
+import Sofia from '../utils/images/dancers.jpg'
 const Cuerpo = () => {
     return ( //Lo que va a devolver a donde yo llamo cuerpo en app.js
     
@@ -15,7 +15,7 @@ const Cuerpo = () => {
         </p>
         </div>
         
-        <div className="ContainerImage">  
+        <div className="Container_Image">  
         <img id="image1" src={Sofia} alt="Hola esta es la img" />
         </div>
         

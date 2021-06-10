@@ -1,11 +1,10 @@
-.Container_Footer{
+.Container_Fotter{
     display: flex;
-    width: 100%;
     height: 33.33vh;
-    border: 2px solid purple;
-    background-image: linear-gradient(to right top, #0b4e45, #0b5455, #185a64, #2b5f70, #3f637a, #3d6a84, #39728d, #337997, #00869a, #009291, #009c7b, #43a35c);
-    color: white;
-    font-family: 'Rockwell';
-    font-size: 30px;
-    background-size: contain;
+    border: 2px solid green;
+    color:white;
+    font-family: 'Ink Free';
+    font-size: 19px;
+    background-image: linear-gradient(to right top, #620511, #640024, #600037, #550c49, #411b59, #38336f, #2c4880, #215b8c, #4a80a2, #79a5b8, #aecad0, #e7eeee);
 }
+

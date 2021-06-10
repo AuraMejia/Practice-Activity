@@ -6,13 +6,6 @@
     font-size: 20px;
     background-image: linear-gradient(to right top, #c9c44f, #c6b340, #c2a233, #bd9227, #b8811d, #bf7221, #c36328, #c55332, #cc424c, #ca3669, #bd3787, #a343a3);
 }
-.ContainerImage{
-    display: flex;
-    width: 50%;
-    margin-right: 10px;
-    height: 100%;
-    justify-content: center;
 
-}
 
 

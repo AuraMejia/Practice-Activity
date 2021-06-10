@@ -7,8 +7,4 @@
     font-size: 19px;
     background-image: linear-gradient(to right top, #620511, #640024, #600037, #550c49, #411b59, #38336f, #2c4880, #215b8c, #4a80a2, #79a5b8, #aecad0, #e7eeee);
 }
-.Container_Text{
-    display: flex;
-    flex-direction: column;
-    
-}
+

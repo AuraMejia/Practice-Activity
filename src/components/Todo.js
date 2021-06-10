@@ -7,12 +7,15 @@ function Todo ()  {
     return (
         <div className="Container_Cabecera"> 
         <h1>
-            Hola, este es el componente de la cabecera
+           La mujer y la naturaleza
         </h1>
+        <div className="Container_Text">
         <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi pariatur fugiat culpa sequi labore excepturi. Suscipit nulla exercitationem eligendi cupiditate modi. Aliquam magnam possimus ut perspiciatis alias nihil facere fugit?
 
         </p>
-        <div className="ContainerImage">  
+        </div>
+        <div className="Container_Image">  
         <img id="image1" src={Sofia} alt="Hola esta es la img" />
         </div>
         
